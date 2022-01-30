@@ -4,7 +4,7 @@ A new Flutter package for showing native alert view in ios and native alert dial
 
 Android                   |  IOS
 :-------------------------:|:-------------------------:
-<img src="gif/android.gif" width="250" height="500">  |  <img src="gif/ios.gif" width="250" height="500">
+<img src="https://raw.githubusercontent.com/mkarundas/DialogAlert/main/gif/android.gif" width="250" height="500">  |  <img src="https://raw.githubusercontent.com/mkarundas/DialogAlert/main/gif/ios.gif" width="250" height="500">
 
 
 
