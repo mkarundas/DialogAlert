@@ -14,10 +14,10 @@ Simple Alert Dialog:
 
 ```dart
 showDialogAlert(
-context: context,
-title: 'Success',
-message: 'You have successfully updated your profile.',
-actionButtonTitle: 'OK',
+  context: context,
+  title: 'Success',
+  message: 'You have successfully updated your profile.',
+  actionButtonTitle: 'OK',
 );
 ```
 Alert Dialog with Cancel Button
@@ -35,17 +35,17 @@ Alert dialog with Custom Button Title Text Style
 
 ```dart
 final result = await showDialogAlert(
-context: context,
-title: 'Success',
-message: 'You have successfully uploaded',
-actionButtonTitle: 'Submit',
-cancelButtonTitle: 'Cancel',
-actionButtonTextStyle: const TextStyle(
-color: Colors.green,
-),
-cancelButtonTextStyle: const TextStyle(
-color: Colors.pink,
-),
+  context: context,
+  title: 'Success',
+  message: 'You have successfully uploaded',
+  actionButtonTitle: 'Submit',
+  cancelButtonTitle: 'Cancel',
+  actionButtonTextStyle: const TextStyle(
+    color: Colors.green,
+  ),
+  cancelButtonTextStyle: const TextStyle(
+    color: Colors.pink,
+  ),
 );
 ```
 
