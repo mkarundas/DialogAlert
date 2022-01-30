@@ -1,6 +1,6 @@
 name: dialog_alert
 description: A new Flutter package for showing native alert view in ios and native alert dialog in android.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/mkarundas/DialogAlert
 
 environment:
